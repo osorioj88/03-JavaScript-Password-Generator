@@ -8,11 +8,13 @@ Password generator was created to result with a randomized characters depending 
 ## Usage
 
 User is required to select character limit between 8 to 128 if not it will result in error.
-![image](http://url/to/img.png)
+![image](https://github.com/osorioj88/03-JavaScript-Password-Generator/blob/main/Images/error1.jpg?raw=true)
+
 Generator will ask for user to accept or cancel the use of special, numeric, lowercase or uppercase character. 
-![image]
+![image](https://github.com/osorioj88/03-JavaScript-Password-Generator/blob/main/Images/type%20selection.jpg?raw=true)
+
 User is required to select at least 1 type to be successful or will result in another error.
-![image]
+![image](https://github.com/osorioj88/03-JavaScript-Password-Generator/blob/main/Images/error%202.jpg?raw=true)
 
 
 ## Deployment
